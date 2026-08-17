@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Yojana Sahayak</string>
+
+    <!-- Header & Brand -->
+    <string name="app_title">Government Scheme Assistant</string>
+    <string name="official_badge">OFFICIAL</string>
+    <string name="sub_tagline">Digital India Official Portal • CSC &amp; Governance</string>
+    <string name="hero_description">Check your eligibility, generate 1-click CSC slips, and locate government centers in your village or town.</string>
+    <string name="badge_schemes">✅ 50+ Schemes</string>
+    <string name="badge_voice">🎙️ AI Voice Help</string>
+    <string name="badge_csc">📍 Find CSC Center</string>
+
+    <!-- Search & Voice -->
+    <string name="search_placeholder">Speak or type (e.g., Farmer Scheme)</string>
+    <string name="listening_prompt">🎙️ Listening in %1$s…</string>
+    <string name="voice_only_banner">Voice-Only Mode 🎙️</string>
+    <string name="voice_only_sub">Designed for Seniors &amp; Visually Impaired</string>
+
+    <!-- Navigation -->
+    <string name="nav_schemes">Schemes</string>
+    <string name="nav_ai_assistant">AI Assistant</string>
+    <string name="nav_calculator">Eligibility</string>
+    <string name="nav_questionnaire">Questionnaire</string>
+    <string name="nav_saved">Saved Slips</string>
+
+    <!-- Filter Chips -->
+    <string name="filter_all">All Schemes</string>
+    <string name="filter_farmers">Farmers</string>
+    <string name="filter_women">Women</string>
+    <string name="filter_youth">Youth</string>
+    <string name="filter_seniors">Seniors</string>
+    <string name="filter_laborers">Laborers</string>
+
+    <!-- Scheme Card Actions -->
+    <string name="action_listen">🔊 Listen</string>
+    <string name="action_csc_slip">🖨️ Apply Slip</string>
+    <string name="action_more_details">View Details</string>
+    <string name="action_less_details">Hide Details</string>
+    <string name="label_max_benefit">💰 Max Benefit: </string>
+    <string name="label_verified">Verified Scheme</string>
+    <string name="action_apply_online">🌐 Apply on Official Portal</string>
+</resources>
