@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">सरकारी योजना सहायक</string>
+
+    <!-- Header & Brand -->
+    <string name="app_title">सरकारी योजना सहायक</string>
+    <string name="official_badge">आधिकारिक</string>
+    <string name="sub_tagline">Digital India Official Portal • CSC &amp; Governance</string>
+    <string name="hero_description">अपनी पात्रता जांचें, 1-क्लिक में CSC पर्ची बनाएं और गांव व शहर में सरकारी केंद्र खोजें।</string>
+    <string name="badge_schemes">✅ 50+ योजनाएं</string>
+    <string name="badge_voice">🎙️ AI वॉइस सहायता</string>
+    <string name="badge_csc">📍 CSC केंद्र खोजें</string>
+
+    <!-- Search & Voice -->
+    <string name="search_placeholder">बोलें या लिखें (जैसे: किसान योजना)</string>
+    <string name="listening_prompt">🎙️ सुन रहे हैं (%1$s में)...</string>
+    <string name="voice_only_banner">केवल बोलकर चलाएं 🎙️</string>
+    <string name="voice_only_sub">बुजुर्गों व दृष्टिबाधितों के लिए</string>
+
+    <!-- Navigation -->
+    <string name="nav_schemes">योजनाएं</string>
+    <string name="nav_ai_assistant">योजना सहायक AI</string>
+    <string name="nav_calculator">पात्रता जाँच</string>
+    <string name="nav_questionnaire">AI प्रश्नमाला</string>
+    <string name="nav_saved">आवेदन पर्ची</string>
+
+    <!-- Filter Chips -->
+    <string name="filter_all">सभी योजनाएं</string>
+    <string name="filter_farmers">किसान</string>
+    <string name="filter_women">महिला</string>
+    <string name="filter_youth">युवा</string>
+    <string name="filter_seniors">वरिष्ठ नागरिक</string>
+    <string name="filter_laborers">मजदूर</string>
+
+    <!-- Scheme Card Actions -->
+    <string name="action_listen">🔊 बोलकर सुनें</string>
+    <string name="action_csc_slip">🖨️ आवेदन पर्ची</string>
+    <string name="action_more_details">पूरा विवरण देखें</string>
+    <string name="action_less_details">कम जानकारी देखें</string>
+    <string name="label_max_benefit">💰 अधिकतम लाभ: </string>
+    <string name="label_verified">सत्यापित योजना</string>
+    <string name="action_apply_online">🌐 आधिकारिक पोर्टल पर आवेदन करें</string>
+</resources>
